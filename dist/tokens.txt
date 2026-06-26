@@ -1,3 +1,0 @@
-Put your tokens here - one per line
-Example:
-NDj8sHJk3...your.token.here
