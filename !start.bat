@@ -1,3 +1,3 @@
 cd dist
-py -3.13 py.py
+python py.py
 cls
